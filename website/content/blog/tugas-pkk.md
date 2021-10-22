@@ -3,7 +3,6 @@ author = "emilia"
 bg_image = ""
 date = 2021-10-18T17:00:00Z
 description = ""
-draft = true
 tags = []
 title = "tugas pkk"
 toc = ""
